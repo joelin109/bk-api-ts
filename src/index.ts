@@ -1,5 +1,5 @@
 import express, { Express, RequestHandler } from "express";
-import routes from "./service/route/index";
+import routes from "./server/route/index";
 
 const app: Express = express();
 const app_port: number = 3001;

@@ -1,6 +1,6 @@
 import { Request, Response } from "express";
 import HttpUtil from '../dao/httpUtil';
-import WordLogic from '../logic/wordLogic';
+import WordLogic from '../service/wordLogic';
 
 const wordAction = {
 

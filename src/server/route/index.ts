@@ -1,8 +1,8 @@
 import { Express, Request, Response } from "express";
-import apiC  from './../_config/apiConf';
-import requireUser from "./../middleware/request";
-import commonAction from "./../controller";
-import WordAction from "./../controller/wordAction";
+import apiC  from '../_config/apiConf';
+import requireUser from "../middleware/request";
+import commonAction from "../controller";
+import WordAction from "../controller/wordAction";
 
 
 export default function (app: Express) {

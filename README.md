@@ -11,7 +11,7 @@ $ cd bk-api-ts
 
 - Adjust Config
 ```
-./src/service/_config/index.ts
+./src/server/_config/index.ts
 ```
 
 <br>

@@ -3,5 +3,5 @@
 ```
 npm install
 
-dbkdsbksdjh
+npm run dev
 ```

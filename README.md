@@ -1,1 +1,5 @@
-# bk-api-ts
+# bk-api-ts 
+
+```
+npm install
+```

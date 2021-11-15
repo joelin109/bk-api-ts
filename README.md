@@ -23,3 +23,13 @@ $ npm install
 
 $ npm run dev
 ```
+
+<br>
+<br>
+
+http://127.0.0.1:3001/api/database/connect
+
+```
+Prüfen, ob die Datenbank erfolgreich verbunden ist.
+Check whether the database is successfully connected.
+```

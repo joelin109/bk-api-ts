@@ -9,7 +9,7 @@ $ cd bk-api-ts
 <br>
 <br>
 
-- Adjust Config
+- Config Setting
 ```
 ./src/server/_config/index.ts
 ```
